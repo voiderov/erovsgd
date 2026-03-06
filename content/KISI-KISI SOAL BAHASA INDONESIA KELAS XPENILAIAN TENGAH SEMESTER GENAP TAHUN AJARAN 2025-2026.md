@@ -1,0 +1,1 @@
+# Arti Teks Negosiasi
