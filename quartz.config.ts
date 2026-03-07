@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Erov's Projekt Panteri",
+    pageTitle: "Operation Citadel",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
