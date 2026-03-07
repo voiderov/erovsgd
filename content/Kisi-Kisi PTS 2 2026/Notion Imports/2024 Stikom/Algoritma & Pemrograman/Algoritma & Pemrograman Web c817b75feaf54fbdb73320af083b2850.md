@@ -1,0 +1,7 @@
+# Algoritma & Pemrograman Web
+
+[[Pseudocode]] [[Web Hosting]] [[Web Interface]] [[Algoritma]] [[Pemrograman Web]]
+
+**Pemrograman** atau **penataolahan**[[1]](https://id.wikipedia.org/wiki/Pemrograman#cite_note-1) adalah proses menulis, menguji dan memperbaiki (*debug*), dan memelihara kode yang membangun suatu program [komputer](https://id.wikipedia.org/wiki/Komputer).[[2]](https://id.wikipedia.org/wiki/Pemrograman#cite_note-2) Kode ini ditulis dalam berbagai [bahasa pemrograman](https://id.wikipedia.org/wiki/Bahasa_pemrograman). Tujuan dari pemrograman adalah untuk memuat suatu program yang dapat melakukan suatu perhitungan atau ‘pekerjaan’ sesuai dengan keinginan si pemrogram. Untuk melakukan pemrograman, diperlukan keterampilan dalam [algoritme](https://id.wikipedia.org/wiki/Algoritme), [logika](https://id.wikipedia.org/wiki/Logika), [bahasa pemrograman](https://id.wikipedia.org/wiki/Bahasa_pemrograman), dan pada banyak kasus, pengetahuan-pengetahuan lain seperti [matematika](https://id.wikipedia.org/wiki/Matematika).
+
+Pemrograman adalah suatu seni dalam menggunakan satu atau lebih [algoritme](https://id.wikipedia.org/wiki/Algoritme) yang saling berhubungan dengan menggunakan suatu [bahasa pemrograman](https://id.wikipedia.org/wiki/Bahasa_pemrograman) tertentu sehingga menjadi suatu program komputer. [Bahasa pemrograman](https://id.wikipedia.org/wiki/Bahasa_pemrograman) yang berbeda mendukung gaya pemrograman yang berbeda pula. Gaya pemrograman ini biasa disebut [paradigma pemrograman](https://id.wikipedia.org/wiki/Paradigma_pemrograman).
