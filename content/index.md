@@ -2,5 +2,5 @@
 title: Welcome to Projekt Citadel
 ---
 
-This is a new AraOrun installation.
+This is a new Garden installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
