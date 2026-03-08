@@ -678,3 +678,8 @@ Retakan pada kerak bumi (sesar/fault) yang mengalami tekanan dalam waktu lama bi
 |**⑦**|**Peleburan (Melting)**|Batuan melebur kembali menjadi magma|Magma baru|
 |**⑧**|**Pengangkatan (Uplift)**|Batuan di dalam bumi terangkat ke permukaan|Batuan terekspos|
 |**⑨**|**Erupsi (Ekstrusi)**|Magma keluar ke permukaan menjadi lava|Batuan Beku Luar|
+# Klasifikasi Gempa bumi
+![[Pasted image 20260308215715.png]]
+![[Pasted image 20260308215826.png]]
+![[Pasted image 20260308215836.png]]![[Pasted image 20260308215849.png]]
+![[Pasted image 20260308215909.png]]
